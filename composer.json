@@ -1,4 +1,21 @@
 {
-  "name":"gaomingcode/jquery.datetimepicker",
-  "type": "library"
+    "name": "gaomingcode/jquery.datetimepicker",
+    "description": "jQuery Plugin Date and Time Picker. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery-plugin", "calendar", "date", "time", "datetime", "datepicker", "timepicker" 
+    ],
+    "homepage": "https://xdsoft.net/jqplugins/datetimepicker/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Chupurnov",
+            "email": "chupurnov@gmail.com",
+            "homepage": "https://xdsoft.net/"
+        }
+    ]
 }
