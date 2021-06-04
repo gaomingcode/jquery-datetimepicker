@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-datetimepicker.svg)](https://github.com/gaomingcode/jquery-datetimepicker)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.datetimepicker)](https://github.com/gaomingcode/jquery-datetimepicker)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jquery.datetimepicker)](https://github.com/gaomingcode/jquery-datetimepicker)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-datetimepicker)](https://github.com/gaomingcode/jquery-datetimepicker)
 
 ## Installation
 
@@ -11,14 +11,22 @@
 ```
 composer require gaomingcode/jquery.datetimepicker
 ```
-###
+
+## ReadMe from Origin
 
 [Demo and Documentation](https://xdsoft.net/jqplugins/datetimepicker/)
+
+[![Build Status](https://travis-ci.org/xdan/datetimepicker.svg?branch=master)](https://travis-ci.org/xdan/datetimepicker)
+[![npm version](https://badge.fury.io/js/jquery-datetimepicker.svg)](https://badge.fury.io/js/jquery-datetimepicker)
+[![npm](https://img.shields.io/npm/dm/jquery-datetimepicker.svg)](https://www.npmjs.com/package/jquery-datetimepicker)
+
+
 
 PLEASE. Help me update documentation.
 [Doc.tpl](https://github.com/xdan/datetimepicker/blob/master/doc.tpl)
 This file will be automatically displayed on the site
 
+# Installation
 
 ```bash
 npm install jquery-datetimepicker
